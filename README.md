@@ -38,5 +38,5 @@ Built an interactive Excel dashboard using PivotTables, charts, and slicers to a
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** <add your LinkedIn URL here>  
+- **LinkedIn:** <www.linkedin.com/in/t-pravallika-268a6a262>  
 - **GitHub:** https://github.com/pravallika-analytics
