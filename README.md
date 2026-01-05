@@ -9,7 +9,7 @@ I have hands-on experience building KPI dashboards, performing SQL-based analysi
 ---
 
 ## 🔧 Skills & Tools
-- **Analytics & BI:** SQL, Advanced Excel , Power BI, Tableau  
+- **Analytics & BI:** SQL, Advanced Excel, Power BI, Tableau  
 - **Automation & Scripting:** Python (Pandas, reporting automation)  
 - **Data Analysis:** KPI reporting, trend analysis, cohort & retention analysis  
 - **Business Skills:** Requirements gathering, stakeholder collaboration, documentation  
@@ -30,10 +30,11 @@ Performed customer cohort and retention analysis to evaluate repeat purchase beh
 ---
 
 ## 🎯 What I’m Interested In
-Business Analyst / Data Analyst roles
-Operations, risk, and performance analytics
-Data-driven decision support
-Analytics automation & scalable reporting
+• Business Analyst / Data Analyst roles  
+• Operations, risk, and performance analytics  
+• Data-driven decision support  
+• Analytics automation & scalable reporting
+
   
 
 ---
