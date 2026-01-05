@@ -21,22 +21,23 @@ I have hands-on experience building KPI dashboards, performing SQL-based analysi
 Automated the generation of recurring ecommerce KPI reports by transforming raw transactional data into structured, formatted Excel outputs with daily, monthly, and category-level insights.  
 ➡️ *Python, Pandas, Excel automation*
 
-### 🔹 Excel Business Performance Dashboard
-Built an interactive Excel dashboard using PivotTables, charts, and slicers to analyze sales and performance KPIs for business decision-making.  
-➡️ *Excel, KPI reporting, dashboard design*
+### 🔹 Customer Cohort Analysis  
+Performed customer cohort and retention analysis to evaluate repeat purchase behavior and engagement trends over time.  
+➡️ Excel (Advanced), cohort & retention analysis
 
 *(More projects in SQL, visualization, and analytics coming soon.)*
 
 ---
 
 ## 🎯 What I’m Interested In
-- Business Analyst / Data Analyst roles  
-- Operations & performance analytics  
-- Data-driven decision support  
-- Analytics automation & reporting efficiency  
+Business Analyst / Data Analyst roles
+Operations, risk, and performance analytics
+Data-driven decision support
+Analytics automation & scalable reporting
+  
 
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** <www.linkedin.com/in/t-pravallika-268a6a262>  
+- **LinkedIn:** https://www.linkedin.com/in/t-pravallika-268a6a262  
 - **GitHub:** https://github.com/pravallika-analytics
