@@ -9,7 +9,7 @@ I have hands-on experience building KPI dashboards, performing SQL-based analysi
 ---
 
 ## 🔧 Skills & Tools
-- **Analytics & BI:** SQL, Excel (Advanced), Power BI, Tableau  
+- **Analytics & BI:** SQL, Advanced Excel , Power BI, Tableau  
 - **Automation & Scripting:** Python (Pandas, reporting automation)  
 - **Data Analysis:** KPI reporting, trend analysis, cohort & retention analysis  
 - **Business Skills:** Requirements gathering, stakeholder collaboration, documentation  
